@@ -11,7 +11,7 @@ Specifically, it highlights and provides more detail for:
     - Awards (pm_awards_mp)
     - More to come
 
-The data and images gathered to create this extension can be found [rdr3_discoveries](https://github.com/femga/rdr3_discoveries) and [redm_natives](https://redm.disquse.me/natives/).
+The data and images gathered to create this extension can be found at [rdr3_discoveries](https://github.com/femga/rdr3_discoveries) and [redm_natives](https://redm.disquse.me/natives/).
 
 ## Example
 
