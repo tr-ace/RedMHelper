@@ -176,6 +176,7 @@ function activate(context) {
     vscode.window.onDidChangeActiveTextEditor(editor => {
         if (activeDecorationType) {
             editor.setDecorations(activeDecorationType, []);  // Clear previous decorations
+			updateLuaFile(editor);
         }
     }, null, context.subscriptions);
 

@@ -31,9 +31,13 @@ None
 
 ## Release Notes
 
-Users appreciate release notes as you update your extension.
+### [0.0.2] - 2024-04-17
 
-### 0.0.1
+#### Bug Fixes
 
-Initial release of RedM-Helper
+- Fixed bug where text decorations would disappear if user switched away from .lua file.
+
+### [0.0.1] - 2024-04-17
+
+- Initial release
 
