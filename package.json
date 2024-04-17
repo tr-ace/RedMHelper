@@ -1,6 +1,6 @@
 {
   "name": "redm-helper",
-  "publisher": "TracesRedMHelper",
+  "publisher": "tr-ace",
   "displayName": "RedM Helper",
   "description": "Highlight recognized RedM natives, blips, emotes, etc. and give descriptions of their functions.",
   "icon": "images/icon.png",
